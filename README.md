@@ -1,2 +1,3 @@
-# Processos_de_Software
-Processos De Software
+-   COD: 98903-04
+-   Disciplina: Processos De Software
+-   Professor: [Rafael Prikladnicki](https://www.pucrs.br/pesquisadores/rafael-prikladnicki/)
